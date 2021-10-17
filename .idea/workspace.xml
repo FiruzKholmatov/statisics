@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cf76ebf-a716-4faa-aa6c-09060e59325d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/netology/stats/StatsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/stats/StatsServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/netology/stats/StatsService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/ru/netology/stats/StatsServiceTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="5cf76ebf-a716-4faa-aa6c-09060e59325d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,9 +45,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Фируз\IdeaProjects\Statistics\src" />
       <recent name="C:\Users\Фируз\IdeaProjects\Statistics\.idea" />
       <recent name="C:\Users\Фируз\IdeaProjects\Statistics" />
-      <recent name="C:\Users\Фируз\IdeaProjects\Statistics\src" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -175,19 +162,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
