@@ -46,8 +46,9 @@ public class StatsService {
 
     public long findMonthUnderAvgSale(long[] sales) {
         int num = 0;
+        long average = findAverage(sales);
         for (long sale : sales) {
-            if (sale <= findAverage(sales)) {
+            if (sale <= average) {
                 num = num + 1;
             }
         }
@@ -56,9 +57,10 @@ public class StatsService {
 
     public long findMonthAboveAvgSale(long[] sales) {
         int num = 0;
+        long average = findAverage(sales);
         for (long sale : sales) {
-            if (sale >= findAverage(sales)) {
-                num = num + 1;
+            if (sale >= average) {
+               num = num + 1;
             }
         }
         return num;
